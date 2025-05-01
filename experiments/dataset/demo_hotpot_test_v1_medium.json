@@ -1,0 +1,1158 @@
+[
+    {
+        "supporting_facts": [
+            [
+                "Mitchell Park, South Australia",
+                0
+            ],
+            [
+                "Mitchell Park, South Australia",
+                1
+            ],
+            [
+                "Marion, South Australia",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "What city adjacent to Mitchell Park was founded in 1838 on the banks of the Sturt River?",
+        "context": [
+            [
+                "Sturt Gorge Recreation Park",
+                [
+                    "The Sturt Gorge Recreation Park is a protected area located in Bellevue Heights, South Australia and which is recognised as an area of great geological significance.",
+                    " It channels the Sturt River down to the Adelaide Plains.",
+                    " The park is 13 km south of Adelaide and was established in 1973."
+                ]
+            ],
+            [
+                "Warriparinga",
+                [
+                    "Warriparinga (meaning \"Windy Place\" in the local Kaurna language) is a nature reserve comprising 3.5 ha in the metropolitan suburb of Bedford Park, in the southern suburbs of Adelaide, South Australia.",
+                    " It has historical, cultural and environmental significance as a traditional Kaurna ceremonial meeting place and as a site of early European settlement.",
+                    " Also known as Fairford, Laffer's Triangle and the Sturt Triangle, Warriparinga is bordered by Marion Road, Sturt Road and South Road, and is traversed by the Sturt River as it exists from Sturt Gorge to travel west across the Adelaide Plains."
+                ]
+            ],
+            [
+                "Marion, South Australia",
+                [
+                    "Marion is a suburb in the City of Marion in Adelaide around 10 km south-west of the CBD.",
+                    " Founded as a rural village in 1838 on the banks of the Sturt River, Marion was found to have rich soil and the population expanded rapidly.",
+                    " Colonel William Light laid out the plan for the village, as he had done with the City of Adelaide itself."
+                ]
+            ],
+            [
+                "Patrick Jonker Veloway",
+                [
+                    "The Patrick Jonker Veloway (formerly known as the Adelaide Southern Veloway) is a sealed bikeway for the exclusive use of cyclists that runs continuously alongside the Southern Expressway for a distance of 7 km — from Marion/Main South Road to the Panalatinga Tunnel.",
+                    " South of the Panalatinga Tunnel, the bikeway becomes a shared track for the remaining 12 km of the Southern Expressway.",
+                    " It provides important links to other cycling facilities in the area, notably the Sturt River recreational trail at the Veloway's northern end, and the Coast to Vines rail trail at both Panalatinga Road and Southern end of the shared track.",
+                    " The Northern end of veloway links to the Sturt River shared path, providing an almost non-stop bicycle route between Glenelg and Willunga."
+                ]
+            ],
+            [
+                "Sturt River",
+                [
+                    "The Sturt River, also known as the Sturt Creek and Warri Parri in the Kaurna language, is a river located in the Adelaide region of the Australian state of South Australia."
+                ]
+            ],
+            [
+                "Mitchell Park Horticultural Conservatory",
+                [
+                    "Mitchell Park Horticultural Conservatory (Mitchell Park Domes or The Domes) is a conservatory located at Mitchell Park in Milwaukee, Wisconsin, United States.",
+                    " It is owned and operated by the Milwaukee County Park System, and replaced the original \"Milwaukee Conservatory\" which stood from 1898 to 1955.",
+                    " The three domes display a large variety of plant life."
+                ]
+            ],
+            [
+                "Woodville West, South Australia",
+                [
+                    "Woodville West is a suburb of Adelaide, situated about 9 kilometres northwest of the Central Business District.",
+                    " It lies within the City of Charles Sturt.",
+                    " The postcode of Woodville West is 5011.",
+                    " Woodville West is bounded by the railway line and Port Road in the north, Findon Road in the east, Trimmer Parade, Todville Street and Minns Street East in the south, and Frank Mitchell Park, Agnes Street and the railway line in the west.",
+                    " As of 2011, Renewal SA and the City of Charles Sturt have been implementing the Woodville West Neighbourhood Renewal Project, which involves an $130m property development."
+                ]
+            ],
+            [
+                "Mitchell Park, South Australia",
+                [
+                    "Mitchell Park is a suburb south of Adelaide.",
+                    " It shares common boundaries with Marion, Bedford Park, Clovelly Park, and Ascot Park.",
+                    " In recent years it has undergone major redevelopments through a program of urban renewal which included the renovation of many properties owned by the former South Australian Housing Trust.",
+                    " These projects have won many awards."
+                ]
+            ],
+            [
+                "Tonsley railway line",
+                [
+                    "The Tonsley railway line is a suburban commuter line in Adelaide, South Australia that stems off the Seaford line at Mitchell Park to end opposite Science Park and close to the Flinders University and the Flinders Medical Centre.",
+                    " The line is single track for most of its length, from Celtic Avenue near Mitchell Park station to the terminus at Tonsley, with two intermediate stations.",
+                    " Services operate every 30 minutes on weekdays with no trains operating at night or on the weekend."
+                ]
+            ],
+            [
+                "Mitchell Park Zoo",
+                [
+                    "Mitchell Park Zoo is also known as Mitchell Park or Mitchell's Park.",
+                    " Situated in the Morningside suburb of Durban, South Africa, it is the only zoo in Durban."
+                ]
+            ]
+        ],
+        "answer": "Marion",
+        "_id": "5a877db75542993e715abf78",
+        "type": "bridge"
+    },
+    {
+        "supporting_facts": [
+            [
+                "Ruth, Caldwell County, Kentucky",
+                1
+            ],
+            [
+                "Daniel Boone National Forest",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "Ruth, Caldwell County, Kentucky is located near a national forest established in which year ?",
+        "context": [
+            [
+                "Cache National Forest",
+                [
+                    "Cache National Forest is a 533,840-acre area of National Forest System land in Idaho and Utah which was established on July 1, 1908 by the U.S. Forest Service.",
+                    " The majority of its area is in Utah, and was initially created when the Bear River National Forest was disbanded.",
+                    " On July 1, 1915, all of Pocatello National Forest was added.",
+                    " In 1973 the Idaho portion was transferred to the administration of Caribou National Forest, while the Utah portion was combined administratively with Wasatch National Forest, creating the Wasatch-Cache National Forest.",
+                    " In descending order of forestland area, the Cache National Forest portion is located in Cache, Bear Lake, Franklin, Weber, Rich, Box Elder, Caribou, and Morgan counties.",
+                    " (Bear Lake, Franklin, and Caribou counties are in Idaho, and the rest in Utah.)",
+                    " The forest has a current area of 701453 acre , which comprises 43.56% of the combined Wasatch-Cache's total acreage.",
+                    " The forest is administered from Salt Lake City, Utah as part of the Wasatch-Cache National Forest, but there are local ranger district offices in Logan and Ogden.",
+                    " From circa 1911 until August 1923, the area was roamed by Old Ephraim."
+                ]
+            ],
+            [
+                "Ruth, Caldwell County, Kentucky",
+                [
+                    "Ruth is an unincorporated community and coal town in Caldwell County, Kentucky, United States.",
+                    " It is located 5 miles east from Somerset, Kentucky, near Daniel Boone National Forest."
+                ]
+            ],
+            [
+                "Lenoir Downtown Historic District",
+                [
+                    "Lenoir Downtown Historic District is a national historic district located at Lenoir, Caldwell County, North Carolina.",
+                    " The district includes 41 contributing buildings and 2 contributing objects in the central business district of Lenoir.",
+                    " It includes commercial, governmental, and institutional buildings in a variety of popular architectural styles including Art Deco, Art Moderne, Classical Revival and Tudor Revival.",
+                    " Notable contributing resources include the Center Theater (1941), O. P. Lutz Furniture Company and Lutz Hosiery Mill (1939), Dayvault’s Drug Store (1937), Caldwell County Agricultural Building (1937), Courtney Warehouse (c. 1888), Masonic Hall (1901, 1959), Miller Building (c. 1900, c. 1920s), Confederate Monument (1910), Belk’s Department Store (1928), Lenoir Building (1907), J. C. Penney Department Store (1941, c. 1980s), Fidelity Building (1928), and U. S. Post Office (1931).",
+                    " Located in the district is the separately listed Caldwell County Courthouse."
+                ]
+            ],
+            [
+                "Daniel Boone National Forest",
+                [
+                    "Daniel Boone National Forest is the only national forest completely within the boundary of Kentucky.",
+                    " Established in 1937, it was originally named the Cumberland National Forest, after the core region called the Cumberland Purchase Unit.",
+                    " About 2100000 acre are contained within its current proclamation boundary, of which 706000 acre are owned and managed by the United States Department of Agriculture Forest Service (as of April 2006), up from around 620000 acre in the early to mid-1990s."
+                ]
+            ],
+            [
+                "Caldwell County Courthouse Historic District",
+                [
+                    "The Caldwell County Courthouse Historic District is a historic district located in Lockhart, Texas, the seat of Caldwell County.",
+                    " The historic district encompasses 67 buildings on 250 acre across downtown Lockhart.",
+                    " One building included in the historic district, the Emmanuel Episcopal Church, was previously listed on the National Register of Historic Places in 1974.",
+                    " The historic district was added to the National Register of Historic Places on January 3, 1978."
+                ]
+            ],
+            [
+                "Palouse National Forest",
+                [
+                    "The Palouse Forest Reserve and after March 4, 1907, the Palouse National Forest was established by Presidential Proclamation (34 U.S. Statutes at Large 3293) on March 2, 1907 and was one of President Theodore Roosevelt's Midnight forests, created before the federal law banning new forest reserves in six western states, including Idaho, became effective.",
+                    " The conventional wisdom has the name ‘palouse’ being derived from the French term for the large treeless plain region in eastern Washington stretching into Idaho: the Palouse, a word meaning grassy spot or place.",
+                    " However, Boone says that the name could originate from the name of a major village of Palouse Indians, Palus, located at the confluence of the Palouse and Snake Rivers.",
+                    " 'Palus' is the Sachapin Indian word for “something sticking down in the water,” in this case the something was a large rock, thought to be a beaver’s heart, and which had an important religious significance for the Palouse Indians.",
+                    " The Palouse National Forest had its administrative headquarters in the town of Wallace, Idaho for its 15-month existence and was administered by the U.S. Forest Service with 194404 acre .",
+                    " With the issuance of Executive Order 843 by President Roosevelt on June 26, 1908, with an effective date of July 1, 1908, the entire forest was absorbed by the Coeur d'Alene National Forest and the area ceased to be an independently administered national forest.",
+                    " The lands of the former Palouse National Forest were then administered as part of the Coeur d’Alene National Forest for three years before being combined with other lands to establish the St. Joe National Forest on July 1, 1911.",
+                    " The area of the former Palouse National Forest formed the western portion of the St. Joe National Forest.",
+                    " Once transferred in 1911, the area of the Palouse National Forest became the Palouse Ranger District of the St. Joe National Forest and is still considered part of the St. Joe National Forest.",
+                    " However, it has been administered by the Clearwater National Forest since the 1973 administrative merger of the Kaniksu National Forest, Coeur d’Alene, and St. Joe National Forests into the Idaho Panhandle National Forests."
+                ]
+            ],
+            [
+                "Deschutes National Forest",
+                [
+                    "The Deschutes National Forest is a United States National Forest located in parts of Deschutes, Klamath, Lake, and Jefferson counties in central Oregon.",
+                    " It comprises 1.8 e6acre along the east side of the Cascade Range.",
+                    " In 1908, the Deschutes National Forest was established from parts of the Blue Mountains, Cascade, and Fremont National Forests.",
+                    " In 1911, parts of the Deschutes National Forest were split off to form the Ochoco and Paulina National Forests, and parts of the Cascade and Oregon National Forests were added to the Deschutes.",
+                    " In 1915, the lands of the Paulina National Forest were rejoined to the Deschutes National Forest.",
+                    " A 1993 Forest Service study estimated that the extent of old growth in the forest was 348100 acre .",
+                    " Within the boundaries of the Deschutes National Forest is the Newberry National Volcanic Monument, containing cinder cones, lava flows, and lava tubes.",
+                    " The Deschutes National Forest as a whole contains in excess of 250 known caves."
+                ]
+            ],
+            [
+                "Fort Defiance (Lenoir, North Carolina)",
+                [
+                    "Fort Defiance is a historic plantation house located near Lenoir, Caldwell County, North Carolina.",
+                    " The main block was built between 1788 and 1792, and is a two-story, frame structure measuring 28 feet by 40 feet.",
+                    " A wing was added in 1823.",
+                    " It was the home of Revolutionary War General William Lenoir.",
+                    " The property was transferred to the Caldwell County Historical Society in 1965 and operated as a historic house museum."
+                ]
+            ],
+            [
+                "Caldwell County, Kentucky",
+                [
+                    "Caldwell County is a county located in the U.S. state of Kentucky.",
+                    " As of the 2010 census, the population was 12,984.",
+                    " Its county seat is Princeton.",
+                    " The county was formed in 1809 from Livingston County, Kentucky and named for John Caldwell, who participated in the George Rogers Clark Indian Campaign of 1786 and was the second lieutenant governor of Kentucky.",
+                    " Caldwell was a prohibition or dry county until 2013, when the citizens voted to lift the ban."
+                ]
+            ],
+            [
+                "Coconino National Forest",
+                [
+                    "The Coconino National Forest is a 1.856-million acre (751,000 ha) United States National Forest located in northern Arizona in the vicinity of Flagstaff.",
+                    " Originally established in 1898 as the \"San Francisco Mountains National Forest Reserve\", the area was designated a U.S. National Forest in 1908 when the San Francisco Mountains National Forest Reserve was merged with lands from other surrounding forest reserves to create the Coconino National Forest.",
+                    " Today, the Coconino National Forest contains diverse landscapes, including deserts, ponderosa pine forests, flatlands, mesas, alpine tundra, and ancient volcanic peaks.",
+                    " The forest surrounds the towns of Sedona and Flagstaff and borders four other national forests; the Kaibab National Forest to the west and northwest, the Prescott National Forest to the southwest, the Tonto National Forest to the south, and the Apache-Sitgreaves National Forest to the southeast.",
+                    " The forest contains all or parts of ten designated wilderness areas, including the Kachina Peaks Wilderness, which includes the summit of the San Francisco Peaks.",
+                    " The headquarters are in Flagstaff.",
+                    " There are local ranger district offices in Flagstaff, Happy Jack, and Sedona."
+                ]
+            ]
+        ],
+        "answer": "1937",
+        "_id": "5ae5c67b5542992663a4f222",
+        "type": "bridge"
+    },
+    {
+        "supporting_facts": [
+            [
+                "Return to Oz",
+                0
+            ],
+            [
+                "The Wild",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Which movie came out First The Wild or Return to Oz?",
+        "context": [
+            [
+                "Town Without Pity",
+                [
+                    "Town Without Pity (German: Stadt ohne Mitleid) is a 1961 American, Swiss, and West German international co-production drama film directed by Gottfried Reinhardt.",
+                    " Produced by The Mirisch Corporation, the film stars Kirk Douglas, Christine Kaufmann, and E. G. Marshall.",
+                    " Coincidentally, this movie came out the same year that John A. Bennett, to this day the last man executed by the U.S. Army, was hanged for raping an 11-year-old girl."
+                ]
+            ],
+            [
+                "Radio tekee murron",
+                [
+                    "Radio tekee murron (\"The Radio Burglary\") (1951) is a Finnish crime comedy directed by Matti Kassila and starring Hannes Häyrinen.",
+                    " The idea for the movie came from an actual radio program done by sensationalist reporter Usko Santavuori, in which he committed a fake burglary of which local police forces had not been made aware, with the exception of the commander."
+                ]
+            ],
+            [
+                "Return to Oz",
+                [
+                    "Return to Oz is a 1985 fantasy adventure film directed and written by Walter Murch, an editor and sound designer, co-written by Gill Dennis and produced by Paul Maslansky.",
+                    " It stars Nicol Williamson as the Nome King, Jean Marsh as Princess Mombi, Piper Laurie as Aunt Em, Matt Clark as Uncle Henry and introduces Fairuza Balk as Dorothy Gale.",
+                    " It is loosely based on L. Frank Baum's \"Oz\" novels, mainly \"The Marvelous Land of Oz\" (1904) and \"Ozma of Oz\" (1907), yet is set six months after the events of the first novel, \"The Wonderful Wizard of Oz\" (1900) took place.",
+                    " Although it is not a sequel and unrelated to the 1939 Metro-Goldwyn-Mayer film, \"The Wizard of Oz\", it borrows a few elements of it such as the ruby slippers."
+                ]
+            ],
+            [
+                "Starship Highlander",
+                [
+                    "Raumschiff Highlander (translated: Starship Highlander) is a fan-created science fiction film and novel series.",
+                    " The series was initiated in 1993 by Robert Amper.",
+                    " Originally, a fan club of science fiction, especially for \"\" (aka \"ST:TOS\" or just \"TOS\"), and the Star Wars movies, whose members met regularly.",
+                    " Some members having experience in filmmaking, the idea spawned of creating material for a movie.",
+                    " First episode of the series aired in 1995 on German TV Channel SAT.1.",
+                    " Inspired by the success of their movie came four additional sequels at the rate of one per year.",
+                    " The movies are a parody of Star Trek and other classics of the genre."
+                ]
+            ],
+            [
+                "Toto (Oz)",
+                [
+                    "Toto is a fictional dog in L. Frank Baum's \"Oz\" series of children's books, and works derived from them.",
+                    " The name is pronounced with a long \"O\", a homophone of \"toe toe\".",
+                    " The dog was originally a small terrier drawn by W. W. Denslow for the first edition of the \"Wizard of Oz\" (1900).",
+                    " He reappears in numerous adaptations, such as \"The Wizard of Oz\" (1939), \"The Wiz\" (1978) and \"Return to Oz\" (1985)."
+                ]
+            ],
+            [
+                "The Wild",
+                [
+                    "The Wild is a 2006 American 3D computer animated comedy directed by animator Steve \"Spaz\" Williams, and written by Ed Decter, John J. Strauss, Mark Gibson and Philip Halprin.",
+                    " It features the voices of Kiefer Sutherland, Jim Belushi, Janeane Garofalo, Greg Cipes, Eddie Izzard, Richard Kind, William Shatner and Patrick Warburton."
+                ]
+            ],
+            [
+                "Cinderella (sports)",
+                [
+                    "In sports, the terms Cinderella, \"Cinderella story\", and Cinderella team are used to refer to situations in which competitors achieve far greater success than would reasonably have been expected.",
+                    " Cinderella stories tend to gain much media and fan attention as they move closer to the championship game at the end of the tournament.",
+                    " The term comes from \"Cinderella\", a well-known European folk tale embodying a myth-element of unjust oppression/triumphant reward.",
+                    " The title character is a woman living in unfortunate circumstances that are suddenly changed to remarkable fortune.",
+                    " In a sporting context the term has been used at least since 1939, but came into widespread usage in 1950, when the Disney movie came out that year, and in reference to City College of New York, the unexpected winners of the NCAA Men's Basketball championship also that year.",
+                    " The term was used by Bill Murray in the 1980 hit movie \"Caddyshack\" where he pretends as the announcer to his own golf fantasy: \"Cinderella story.",
+                    " Outta nowhere.",
+                    " A former greenskeeper, now, about to become the Masters champion.\""
+                ]
+            ],
+            [
+                "Tom and Jerry: Back to Oz",
+                [
+                    "Tom and Jerry: Back to Oz (also known as Tom and Jerry: Return to Oz) is a 2016 animated direct-to-video film starring Tom and Jerry, produced by Warner Bros.",
+                    " Animation.",
+                    " The film is a sequel to the 2011 animated film, \"Tom and Jerry and the Wizard of Oz\".",
+                    " It is also the first sequel in the direct-to-video film series of the \"Tom and Jerry\" franchise.",
+                    " This was voice actor Joe Alaskey's final work, having died of cancer on February 3, 2016; the film is dedicated to his memory."
+                ]
+            ],
+            [
+                "Vedham Pudhithu",
+                [
+                    "Vedham Puthithu (Tamil: வேதம் புதிது English: New vedha ) (1987), starring Sathyaraj and Amala is a Tamil movie, written by K.Kannan, who after this movie came to be Vedham Puthithu Kannan and directed by Bharathiraja.",
+                    " Charuhasan, Saritha, Raja and 'Nizhalgal' Ravi played supporting roles in the movie."
+                ]
+            ],
+            [
+                "The Marvelous Land of Oz",
+                [
+                    "The Marvelous Land of Oz: Being an Account of the Further Adventures of the Scarecrow and the Tin Woodman, commonly shortened to The Land of Oz, published on July 5, 1904 , is the second of L. Frank Baum's books set in the Land of Oz, and the sequel to \"The Wonderful Wizard of Oz\" (1900).",
+                    " This and the next 34 Oz books of the famous 40 were illustrated by John R. Neill.",
+                    " The book was made into an episode of \"The Shirley Temple Show\" in 1960, and into a Canada/Japan co-produced animated series of the same name in 1986.",
+                    " It was also adapted in comic book form by Marvel Comics, with the first issue being released in November 2009.",
+                    " Plot elements from \"The Marvelous Land of Oz\" are included in the 1985 Disney feature film \"Return to Oz\"."
+                ]
+            ]
+        ],
+        "answer": "Return to Oz",
+        "_id": "5a75919f5542992db9473686",
+        "type": "comparison"
+    },
+    {
+        "supporting_facts": [
+            [
+                "Golf Digest",
+                0
+            ],
+            [
+                "Cook's Illustrated",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "What kind of publication are Golf Digest and Cook's Illustrated?",
+        "context": [
+            [
+                "Jim McQueen",
+                [
+                    "Jim McQueen is an American freelance sports illustrator.",
+                    " A photo-realist, McQueen has illustrated over 50 books and written syndicated columns for the likes of Jack Nicklaus, Billy Casper, Dave Hill and Stan Smith.",
+                    " In addition, Jim served as the senior illustrator for Golf Digest for 30 years, Golf Magazine for 10 years, Tennis Magazine for 13 years and The Majors of Golf magazine for 8 years."
+                ]
+            ],
+            [
+                "Michael Breed",
+                [
+                    "Michael S. Breed (born May 14, 1962, in Greenwich, Connecticut) is a professional golf instructor and television host.",
+                    " In 2003, he was selected as a Top 100 Instructor in America by \"Golf Magazine\", in 2011, he was voted one of the Top 50 Instructors in America by Golf Digest (now 13th on this list, and #1 in the state of New York.)",
+                    ", in 2012, Breed was chosen as the PGA's National Teacher of the Year.",
+                    " Prior to his time as a television host, Breed was the Head Golf Professional at Sunningdale Country Club for 12 years from 2001–2012, and the Head Golf Professional at Birchwood Country Club, as well as the Assistant Professional at Deepdale Golf Club and Augusta National Golf Club.",
+                    " He has served on different boards for the Metropolitan PGA for over 10 years and has represented the PGA of America at the National Golf Day in Washington D.C. since 2012.",
+                    " He is involved in charities such as The First Tee, Folds of Honor, Hope for the Warriors, Wounded Warriors Foundation and Salute Military Golf Association."
+                ]
+            ],
+            [
+                "Cook's Illustrated",
+                [
+                    "Cook's Illustrated is an American cooking magazine published every two months by the America's Test Kitchen company in Brookline, Massachusetts.",
+                    " It accepts no advertising and is characterized by extensive recipe testing and detailed instructions.",
+                    " The magazine also conducts thorough evaluations of kitchen equipment and branded foods and ingredients."
+                ]
+            ],
+            [
+                "Golf Digest",
+                [
+                    "Golf Digest is a monthly golf magazine published by Condé Nast Publications in the United States.",
+                    " It is a generalist golf publication covering recreational golf and men's and women's competitive golf.",
+                    " Condé Nast Publications also publishes the more specialized \"Golf for Women\", \"Golf World\" and \"Golf World Business\".",
+                    " The magazine started in 1950, and was sold to The New York Times Company in 1969.",
+                    " The Times company sold their magazine division to Condé Nast in 2001.",
+                    " The headquarters of \"Golf Digest\" is in Des Moines, Iowa."
+                ]
+            ],
+            [
+                "Golf La Moraleja",
+                [
+                    "Golf La Moraleja is one of Spain’s most important clubs.",
+                    " It is the largest Spanish golf club for its number of its holes and the largest in Europe located in a metropolitan area.",
+                    " Founded in 1973, it currently has four 18-hole golf courses, all rated par 72, designed by Jack Nicklaus.",
+                    " It also contains a 9-hole short course, 8 tennis courts, 12 paddle tennis courts, 2 squash courts, one covered and three open-air swimming pools, a gym and a spa.",
+                    " Added to these are two clubhouses, a children’s chalet and a tennis clubhouse (on 1 and 2 courses), plus a prebuilt modular clubhouse for courses 3 and 4.",
+                    " Courses 1 and 2 are located at La Moraleja residential estate (Alcobendas, Madrid).",
+                    " Courses 3 and 4 are located in the municipality of Algete.",
+                    " It has 6,000 shareholder members.",
+                    " In 2013 it was voted the best golf course in Spain by Deporte & Business and in 2014, La Moraleja 3 was voted the second best golf course in Spain by the American magazine Golf Digest.",
+                    " The Club has hosted competitions such as the World Cup of Golf, the Spanish Open or the Paddle Tennis World Championship."
+                ]
+            ],
+            [
+                "Kiva Dunes",
+                [
+                    "Kiva Dunes is a public golf course located in Baldwin County, just west of Gulf Shores, Alabama.",
+                    " The course was designed by professional golfer Jerry Pate, and was immediately ranked #2 in Golf Digest's \"Best New Public Course (US)\" when it opened in 1995.",
+                    " More recently, the publication ranked the course #58 on \"America’s 100 Greatest Public Courses\".",
+                    " GolfLink currently lists Kiva Dunes as one of the best golf course in the state  and it is ranked #44 in Golf Week's \"Top 100 Resort Courses\" and #76 in their \"Top 100 Residential Courses\"."
+                ]
+            ],
+            [
+                "Cypress Ridge Golf Course",
+                [
+                    "Cypress Ridge Golf Course is located in Arroyo Grande, California—which is on the Central Coast of California.",
+                    " The golf course is a Peter Jacobsen Signature Golf Course, designed by Jacobsen Hardy Design.",
+                    " In its design and conception, Jacobsen Hardy utilized the natural surroundings of the area to make this central coast golf course truly unique.",
+                    " The golf course opened in 1999.",
+                    " It is rated 4½ stars by Golf Digest \"Best Places to Play\"."
+                ]
+            ],
+            [
+                "Sheshan Golf Club",
+                [
+                    "Sheshan Golf Club () is the first premier private golf club in Shanghai, China.",
+                    " Founded in 2004, the 18 hole golf course plays to a par of 72 and is designed by Nelson and Haworth Design, and spans over 7,266 yards (6,531 meters).",
+                    " Every year, the club plays host to the WGC-HSBC Champions, and is currently the only club to host the Championship.",
+                    " Sheshan Golf Club was awarded the Best Golf Course in China by \"Golf Digest\" in 2013 and currently tops of the list of Top Clubs in China by \"Golf Magazine\"."
+                ]
+            ],
+            [
+                "Squire Creek Country Club",
+                [
+                    "The Squire Creek Country Club is a private, members-only country club located in Choudrant, Louisiana, five miles northeast of Ruston.",
+                    " Squire Creek features an 18-hole championship golf course designed by Tom Fazio.",
+                    " The course has been ranked as number one in the state of Louisiana four times, and was ranked as the No. 5 best new course in the United States by \"Golf Digest\".",
+                    " Squire Creek is the home golf course for the Louisiana Tech Bulldogs golf team.",
+                    " Squire Creek offers a golf training facility, which features dual bays with retractable doors for indoor or outdoor use, motion analysis, and launch monitor.",
+                    " The Squire Creek tennis facility has 6 lighted courts (4 Hydro Courts and 2 Hard Courts).",
+                    " Squire Creek has full service golf and tennis shops.",
+                    " The Squire Creek fitness facility has 2 exercise rooms and offers massage therapy.",
+                    " The Squire Creek Clubhouse features three dining areas: the more formal Main Dining Hall, the casual 19th Hole, and the Fazio Grill.",
+                    " The Squire Creek Lodge features two floors offering a combined total of seven bedrooms.",
+                    " The Squire Creek Pool overlooks the golf course and is served by the Waterside Cafe.",
+                    " The Squire Creek Development offers six residential estates including the Squire Creek Estates, Timberland Estates, Fairway Estates, The Fairways, Fairway Villas, and The Park Homes.",
+                    " Squire Creek Country Club is the title sponsor of the Louisiana Peach Festival in Ruston.",
+                    " Squire Creek hosted the 2005 Western Athletic Conference Golf Championships."
+                ]
+            ],
+            [
+                "Harbour Town Golf Links",
+                [
+                    "Harbour Town Golf Links is a public golf course located in Sea Pines Plantation on Hilton Head Island in Beaufort County, South Carolina.",
+                    " Harbour Town Golf Links hosts the RBC Heritage, a PGA Tour event held in mid-April, usually the week after The Masters.",
+                    " Harbour Town Golf Links is ranked high among golf courses in America by \"Golf Digest\" and \"Golf Magazine\".",
+                    " The course consists of narrow fairways, overhanging oaks, pines, palmettos, and dark lagoons.",
+                    " Harbour Town Golf Links along with the Ocean Course and Heron Point, make up the Sea Pines Resort."
+                ]
+            ]
+        ],
+        "answer": "magazine",
+        "_id": "5ade36d3554299728e26c67c",
+        "type": "comparison"
+    },
+    {
+        "supporting_facts": [
+            [
+                "Mike Bianchi",
+                0
+            ],
+            [
+                "Mike Bianchi",
+                3
+            ],
+            [
+                "University of Central Florida",
+                0
+            ],
+            [
+                "University of Central Florida",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "What is the name of the university that has the largest enrollment at a single campus that Michael A. Bianchi writes about at the \"Orlando Sentinel\"?",
+        "context": [
+            [
+                "Jeff Brazil",
+                [
+                    "Jeff Brazil is a Pulitzer Prize-winning American journalist, writer, and editor who received, along with fellow journalist Steve Berry, the Pulitzer Prize for Investigative Journalism in 1993 for a series of articles published in the Orlando Sentinel on unjust and racially motivated traffic stops and money seizures by a Florida Sheriff's drug task force.",
+                    " Brazil was a staff writer for the Orlando Sentinel from 1989 to 1993."
+                ]
+            ],
+            [
+                "Phil Steele",
+                [
+                    "Phil Steele (born c. 1960) is an American sportswriter and analyst who focuses exclusively on college and professional football.",
+                    " He currently writes a column for the \"Orlando Sentinel\", and is considered a \"highly respected prognosticator\" within the sports media.",
+                    " His company, Phil Steele Publications, produces the annual preseason magazine \"Phil Steele's College Football Preview\", which he personally writes in almost its entirety.",
+                    " The first edition was published in 1995.",
+                    " In a comparison of the major preseason college football magazines, ESPN writer Pat Forde said:All the mags have their merits . . . But Phil Steele owns the genre . . . The 46-year-old uses a cookie-cutter layout for every team, and his writing will never be nominated for a Pulitzer.",
+                    " But he does author every two-page team preview himself, and he crams stats, facts and figures into every nook and cranny.",
+                    " The magazine was similarly praised by the \"News & Observer\" and Rivals.com.",
+                    " Chris Stassen, owner of football.stassen.com, has tracked the preseason magazines' accuracy since 1993 and rates \"Phil Steele's\" as the most accurate in its predictions."
+                ]
+            ],
+            [
+                "University of Louisiana at Lafayette",
+                [
+                    "The University of Louisiana at Lafayette (UL Lafayette, ULL, or UL) is a coeducational, public, research university in Lafayette, in the U.S. state of Louisiana.",
+                    " It has the largest enrollment within the nine-campus University of Louisiana System and has the second largest enrollment in Louisiana."
+                ]
+            ],
+            [
+                "List of University of Texas at Austin alumni",
+                [
+                    "This list of University of Texas at Austin alumni includes notable graduates, non-graduate former students, and current students of the University of Texas at Austin.",
+                    " The institution is a major research university in Downtown Austin, Texas, USA and is the flagship institution of the University of Texas System.",
+                    " Founded in 1883, the university has had the fifth largest single-campus enrollment in the nation as of Fall 2006 (and had the largest enrollment in the country from 1997–2003), with over 50,000 undergraduate and graduate students and 16,500 faculty and staff.",
+                    " It currently holds the second largest enrollment of all colleges in the state of Texas, behind Texas A&M University."
+                ]
+            ],
+            [
+                "University of Central Florida",
+                [
+                    "The University of Central Florida, or UCF, is an American metropolitan public research university in Orlando, Florida.",
+                    " It is the largest university in the United States by undergraduate enrollment, as well as the largest enrollment at a single campus."
+                ]
+            ],
+            [
+                "Stephen Berry (journalist)",
+                [
+                    "Stephen J. Berry (born 1948) is an investigative journalist.",
+                    " In 1993 while working for The Orlando Sentinel, he and Jeff Brazil won the Pulitzer Prize for Investigative Reporting for a report in \"The Orlando Sentinel\" exposing a sheriff department drug squad's unlawful seizure of millions of dollars from motorists, mostly minorities.",
+                    " He is now an associate professor at The University of Iowa's School of Journalism and Mass Communication.",
+                    " Berry is also the author of a book about investigative journalism entitled \"Watchdog Journalism: The Art of Investigative Reporting.\""
+                ]
+            ],
+            [
+                "Adam Wonus",
+                [
+                    "Adam Wonus was born in Ohio and now resides in Orlando, Florida.",
+                    " He graduated from Ohio University.",
+                    " He is a real estate developer and is known for his redevelopment of the Milk District in Orlando, Florida.",
+                    " He is the largest landlord in the Milk District, the eastern central district just north of downtown Orlando.",
+                    " The Milk District is famous for the T.G. Lee Milk plant that was established in 1925.",
+                    " According to the Orlando Sentinel, he has built over 60 townhouse units in the downtown Orlando area.",
+                    " He has been interviewed on Fox News Orlando, The Orlando Sentinel as well as NPR.",
+                    " Wonus's property management company Atrium Management was also awarded the Community Impact honor in the Orlando Business Journal's 2017 Residential Real Estate Awards for the Milk District revitalization efforts."
+                ]
+            ],
+            [
+                "Mike Bianchi",
+                [
+                    "Michael A. Bianchi (born c. 1960) is an American journalist and sports columnist at the \"Orlando Sentinel.\"",
+                    " He joined the \"Sentinel\" as a columnist in 2000 after working as the lead sports columnist at \"The Florida Times-Union\" in Jacksonville.",
+                    " Before the Times-Union, Bianchi worked at \"Florida Today\" in Cocoa, where he wrote columns and covered athletics at the University of Florida.",
+                    " In Orlando, he writes about the Orlando Magic, Orlando City Soccer Club, Florida Gators, Florida State Seminoles, University of Central Florida, NASCAR, the NBA, NFL and other sports and events.",
+                    " Bianchi also has a weekday morning radio program in Orlando, \"Open Mike\", on 740 The Game.",
+                    " The show focuses on sports in Central Florida and Florida."
+                ]
+            ],
+            [
+                "El Sentinel (Orlando)",
+                [
+                    "El Sentinel, also known as El Sentinel de Orlando, is a weekly Spanish-language newspaper published in Orlando, Florida for the Central Florida area by the Orlando Sentinel Media Group, a subsidiary of Tribune Publishing of Chicago, Illinois, which also publishes the \"Orlando Sentinel\"."
+                ]
+            ],
+            [
+                "List of University of Texas at Austin faculty",
+                [
+                    "This list of University of Texas at Austin faculty includes current and former instructors and administrators of the University of Texas at Austin (UT Austin), a major research university located in Austin, Texas that is the flagship institution of the University of Texas System.",
+                    " Founded in 1883, the university has had the fifth largest single-campus enrollment in the nation as of Fall 2006 (and had the largest enrollment in the country from 1997 to 2003), with over 50,000 undergraduate and graduate students and 16,500 faculty and staff.",
+                    " It currently holds the largest enrollment of all colleges in the state of Texas."
+                ]
+            ]
+        ],
+        "answer": "The University of Central Florida",
+        "_id": "5a711bdb5542994082a3e598",
+        "type": "bridge"
+    },
+    {
+        "supporting_facts": [
+            [
+                "Prince Hisahito of Akishino",
+                0
+            ],
+            [
+                "Fumihito, Prince Akishino",
+                0
+            ]
+        ],
+        "level": "medium",
+        "question": "Prince Hisahito of Akishino's father was born in what year?",
+        "context": [
+            [
+                "Princess Mako of Akishino",
+                [
+                    "Princess Mako of Akishino (眞子内親王 , Mako Naishinnō , born 23 October 1991) is the first child and oldest daughter of Fumihito, Prince Akishino and Kiko, Princess Akishino, and a member of the Japanese Imperial Family.",
+                    " She is the eldest grandchild of Emperor Akihito and Empress Michiko."
+                ]
+            ],
+            [
+                "Princess Kako of Akishino",
+                [
+                    "Princess Kako of Akishino (佳子内親王 , Kako Naishinnō , born 29 December 1994) is the second daughter of Fumihito, Prince Akishino and Kiko, Princess Akishino, and a member of the Japanese Imperial Family.",
+                    " She is the second-eldest grandchild of Emperor Akihito and Empress Michiko."
+                ]
+            ],
+            [
+                "Kiko, Princess Akishino",
+                [
+                    "Kiko, Princess Akishino (文仁親王妃紀子 , Fumihito Shinnōhi Kiko ) , born 11 September 1966 as Kiko Kawashima (川嶋紀子 , \"Kawashima Kiko\" ) , is the wife of Fumihito, Prince Akishino, the second son of Emperor Akihito and Empress Michiko of Japan.",
+                    " She is also known as Princess Kiko."
+                ]
+            ],
+            [
+                "Crown Prince Sado",
+                [
+                    "Crown Prince Sado (13 February 1735 – 12 July 1762) was born Prince Jangheon, the second son of the Korean king Yeongjo (1694 – 1776).",
+                    " Due to the prior death of his older brother Prince Hyojang (1728), the new prince was the probable royal heir.",
+                    " However Prince Sado was not given an opportunity to reign.",
+                    " At the age of 27, he was executed by order of his father, and died of starvation by being confined in a rice chest.",
+                    " His father gave him the posthumous title Sado, meaning \"Thinking of with great sorrow.\""
+                ]
+            ],
+            [
+                "Emperor Jianwen of Liang",
+                [
+                    "Emperor Jianwen of Liang (梁簡文帝) (2 December 503 – 551), personal name Xiao Gang (蕭綱), courtesy name Shizuan (世纘), nickname Liutong (六通), was an emperor of the Chinese Liang Dynasty.",
+                    " He was initially not the crown prince of his father Emperor Wu, the founder of the dynasty, but became the crown prince in 531 after his older brother Xiao Tong died.",
+                    " In 549, the rebellious general Hou Jing captured the capital Jiankang, and Hou subsequently held both Emperor Wu and Crown Prince Gang under his power, having Crown Prince Gang take the throne (as Emperor Jianwen) after Emperor Wu's death later that year.",
+                    " During Emperor Jianwen's reign, he was almost completely under Hou's control, and in 551, Hou, planning to take the throne himself, first forced Emperor Jianwen to yield the throne to his grandnephew Xiao Dong the Prince of Yuzhang, and then sent messengers to suffocate the former emperor."
+                ]
+            ],
+            [
+                "Fumihito, Prince Akishino",
+                [
+                    "Fumihito, Prince Akishino (秋篠宮文仁親王 , Akishino-no-miya Fumihito Shinnō , born 30 November 1965) is a member of the Japanese imperial family.",
+                    " He is the younger son of Emperor Akihito and Empress Michiko and currently second in line to the Chrysanthemum Throne."
+                ]
+            ],
+            [
+                "Prince Hisahito of Akishino",
+                [
+                    "Prince Hisahito of Akishino (悠仁親王 , Hisahito Shinnō , born 6 September 2006) is the youngest child and only son of Fumihito, Prince Akishino and Kiko, Princess Akishino.",
+                    " He is the only grandson of Emperor Akihito and Empress Michiko.",
+                    " Hisahito is third in line to become Emperor of Japan, after his uncle Naruhito and his father."
+                ]
+            ],
+            [
+                "Bader bin Saud bin Mohammed Al Saud",
+                [
+                    "Prince Bader bin Saud bin Mohammed bin Abdulaziz bin Saud bin Faisal bin Turki Al Saud (born 27 November 1969), is a Saudi Public Affairs Writer under the nom de plume Bader bin Saud, Paratrooper Colonel at the Saudi Arabian Ministry of Interior, and previously president of the Saudi Students Clubs in the UK & Ireland.",
+                    " He is now the Deputy Commander of the Public Security Training City in Al Madinah Region, Kingdom of Saudi Arabia.",
+                    " His father is Prince Saud bin Mohammed Al Saud, and his mother Princess Alanoud bint Abdullah bin Abdulmohsen Alfirm.",
+                    " Two of his siblings are known poets, Prince and Dr Saad Al Saud, known as “Munadi,” (the caller).",
+                    " The other is Prince Abdulaziz bin Saud Al Saud, known as “Alsamir”, (the one who stays up all night) Prince Bader has six children - Prince Faisal, Prince Saud, Prince Khalid, Prince Fahad, Princess Reem and Princess Aljohara."
+                ]
+            ],
+            [
+                "Brazilian imperial family",
+                [
+                    "The Brazilian Imperial Family is a royal family and cadet branch of the Portuguese Royal House of Braganza that ruled the Empire of Brazil for 67 years, between 1822 and 1889, after the proclamation of independence by Prince Pedro of Braganza who was later acclaimed as Pedro I, \"Constitutional Emperor and Perpetual Defender of Brazil\".",
+                    " The members of the family are dynastic descendants of Emperor Pedro I. Claimants to headship of the post-monarchic Brazilian Imperial legacy descend from Emperor Pedro II, including the senior agnates of two branches of the House of Orléans-Braganza; the so-called \"Petrópolis\" and \"Vassouras\" lines.",
+                    " Prince Pedro Carlos of Orléans-Braganza (born 1945) heads the \"Petrópolis\" line, while the \"Vassouras\" branch is led by his second cousin, Prince Luiz of Orléans-Braganza.",
+                    " Rivalry within the family erupted in 1946 when \"Dom\" Pedro Gastão (1913–2007) repudiated the renunciation to the throne of his late father, Pedro de Alcântara, Prince of Grão-Pará (1875–1940), for himself and his future descendants, when he made a non-dynastic marriage in 1908.",
+                    " Pedro de Alcântara was the eldest son of the Princess Imperial Isabel (1846–1921) who, as Pedro II's elder daughter and heir presumptive when he was dethroned, became the last undisputed head of the family after her father's death in exile in 1891.",
+                    " Pedro Carlos is \"Dom\" Pedro Gastão's eldest son.",
+                    " \"Dom\" Luiz descends from Isabel's younger son, Prince Luís (1878–1920) who, by a Bourbon princess, fathered Prince Pedro Henrique (1909–1981).",
+                    " Dom Luiz is Pedro Henrique's son by a Bavarian princess and upholds his dynastic claim to the same legacy."
+                ]
+            ],
+            [
+                "Tufa Rutan",
+                [
+                    "Tufa Rutan (; 365–415), formally Prince Jing of (Southern) Liang) ((南)涼景王), was the last prince of the Xianbei state Southern Liang.",
+                    " As he was the son that his father, the Xianbei chief Tufa Sifujian (禿髮思復犍), considered most talented, his older brothers, the founding prince Tufa Wugu (Prince Wu) and Tufa Lilugu (Prince Kang) both decided to pass the throne to a brother, intending that he receive the throne.",
+                    " However, Tufa Rutan, while obviously talented as a general, is viewed by historians as being overly aggressive in waging military campaigns, and he greatly drained the resources of the Southern Liang people while doing so.",
+                    " Southern Liang's strength particularly waned after a major 407 defeat at the hand of the Xia emperor Liu Bobo, and it drew attacks from its neighbors Northern Liang and Western Qin.",
+                    " Eventually, Tufa Rutan was forced to surrender to Western Qin in 414 after Western Qin captured his capital Ledu (樂都, in modern Haidong Prefecture, Qinghai), and he was poisoned to death a year later."
+                ]
+            ]
+        ],
+        "answer": "1965",
+        "_id": "5a7a83905542995eb53be856",
+        "type": "bridge"
+    },
+    {
+        "supporting_facts": [
+            [
+                "South Tongu (Ghana parliament constituency)",
+                0
+            ],
+            [
+                "South Tongu District",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "South Tongu in the district that has a capital of what city?",
+        "context": [
+            [
+                "Kambia District",
+                [
+                    "Kambia District is a district in the Northern Province of Sierra Leone.",
+                    " Its capital and largest city is the town of Kambia.",
+                    " As of the 2015 census, The District had a population of 343,686.",
+                    " Kambia District borders the Republic of Guinea to the north, Port Loko District to the south and Bombali District to the east.",
+                    " The district provides an important Trade route to or from the Sierra Leonean capital Freetown to the Guinean capital Conakry."
+                ]
+            ],
+            [
+                "Maseru District",
+                [
+                    "Maseru is a district of Lesotho.",
+                    " Maseru is also the name of the district's capital, and is the only city in the district and also the capital of the country.",
+                    " It is the largest urban area in the country, and therefore the only city.",
+                    " The city of Maseru is located on Lesotho's western border with the Free State Province of South Africa, the frontier being the Caledon River.",
+                    " Maseru borders on Berea District in north, Thaba-Tseka District in the east, Mohale's Hoek District in south, and Mafeteng District in southwest."
+                ]
+            ],
+            [
+                "Sogakope",
+                [
+                    "Sogakope is the capital of South Tongu district, a district in the Volta Region of Ghana.",
+                    " It is home to the lower Volta Bridge which connects Sogakope to Sokpoe.",
+                    " The town is mostly known for its river tourism.",
+                    " It is home to the Holy Trinity Spa, Cisneros Villa Hotel and other notable resorts including Shekinah Glory Hotel, Sogakope Resort etc.",
+                    " Most commuters plying the Accra to Aflao road usually stop over to buy snacks and bread.",
+                    " The town is mostly known for bread baking as well."
+                ]
+            ],
+            [
+                "Mongkol Borey District",
+                [
+                    "Mongkol Borey District (Khmer: ស្រុកមង្គលបូរី ; rtgs: Mongkhonburi ,  ] , \"Auspicious City\") is a district (\"srok\") in the south of Banteay Meanchey Province, in north-western Cambodia.",
+                    " The district capital is Mongkol Borey town located around 9 kilometres south of the provincial capital of Sisophon by road.",
+                    " Mongkol Borey District is the southernmost district of Banteay Meanchey.",
+                    " The district shares a border with Battambang Province to the south.",
+                    " The main railway line from Phnom Penh to Poipet on the border with Thailand runs through the district from north to south."
+                ]
+            ],
+            [
+                "Lipis District",
+                [
+                    "The Lipis District is a district located in north-west of Pahang, Malaysia.",
+                    " The district covers an area of 5,198 km².",
+                    " Lipis district is bordered by Cameron Highlands and Perak on the west, Jerantut on the east, Kelantan and Raub on the north and south, respectively.",
+                    " Lipis has 10 \"mukim\" or subdistricts, the largest being Ulu Jelai.",
+                    " The district capital is Kuala Lipis.",
+                    " During the British colonization, Kuala Lipis was made the state's capital city.",
+                    " Kuala Lipis was the administrative capital of Pahang for 57 years from 1898 until 27 August 1955, when Kuantan was picked as the new capital.",
+                    " Lipis was blessed with many types of minerals such as tin and gold, and products from the surrounding forests."
+                ]
+            ],
+            [
+                "Vume",
+                [
+                    "Vume is a small town in the South Tongu District of the Volta Region near Sogakope.",
+                    " The residents of Vume are well noted for the art of pottery."
+                ]
+            ],
+            [
+                "South Tongu (Ghana parliament constituency)",
+                [
+                    "South Tongu is one of the constituencies represented in the Parliament of Ghana.",
+                    " It elects one Member of Parliament (MP) by the first past the post system of election.",
+                    " South Tongu is located in the South Tongu district of the Volta Region of Ghana."
+                ]
+            ],
+            [
+                "Red Bull Ghana",
+                [
+                    "Red Bull Ghana was a Ghanaian professional football club and academy located in Sogakope, South Tongu District, Ghana, which was founded in 2008 and abolished in 2014.",
+                    " The club was owned by Red Bull, and last played in Division One League Zone 3B."
+                ]
+            ],
+            [
+                "Ada Kasseh",
+                [
+                    "Kasseh is a town in the Ada East district, a district in the Greater Accra Region of Ghana.",
+                    " It is a major town located between Sege and Sogakope on the Accra-Aflao road.",
+                    " Kasseh has the biggest market in four districts(Ada West, Ada East, South Tongu and North Tongu) in its area.",
+                    " Kasseh is connected to almost all the towns and villages in the Ada East district by road or path.",
+                    " It is the most easily accessible town in the district.",
+                    " It is connected by road to the district capital town of Ada Foah and the Town called Big Ada."
+                ]
+            ],
+            [
+                "South Tongu District",
+                [
+                    "The South Tongu District is one of the twenty-five (25) districts in the Volta Region.",
+                    " South Tongu capital and administrative centre is Sogakope."
+                ]
+            ]
+        ],
+        "answer": "Sogakope",
+        "_id": "5ae7411c5542997b22f6a63f",
+        "type": "bridge"
+    },
+    {
+        "supporting_facts": [
+            [
+                "The Ready Set",
+                0
+            ],
+            [
+                "Rapeman",
+                0
+            ],
+            [
+                "Rapeman",
+                2
+            ]
+        ],
+        "level": "medium",
+        "question": "Which band was described as post-harcore, The Ready Set or Rapeman/>",
+        "context": [
+            [
+                "Fight for Something Tour",
+                [
+                    "Fight for Something Tour is a joint United States concert tour by Australian punk rock band Tonight Alive and American pop rock band Set It Off.",
+                    " Emo singer songwriter SayWeCanFly and pop artist and songwriter The Ready Set were also on the entire tour."
+                ]
+            ],
+            [
+                "List of High School DxD episodes",
+                [
+                    "High School DxD is an anime series adapted from the light novels of the same title written by Ichie Ishibumi and illustrated by Miyama-Zero.",
+                    " Produced by TNK, directed by Tetsuya Yanagisawa, and written by Takao Yoshioka, the anime aired on AT-X from January 6, 2012 to March 23, 2012.",
+                    " The second season called High School DxD New (ハイスクール<ruby ><rb>D×D</rb><rp> (</rp><rt >ディーディー</rt><rp>)</rp></ruby> <ruby ><rb>NEW</rb><rp> (</rp><rt >ニュー</rt><rp>)</rp></ruby> , Haisukūru Dī Dī Nyū ) aired from July 7, 2013 to September 22, 2013.",
+                    " The third season called High School DxD BorN (ハイスクール<ruby ><rb>D×D</rb><rp> (</rp><rt >ディーディー</rt><rp>)</rp></ruby> <ruby ><rb>BorN</rb><rp> (</rp><rt >ボーン</rt><rp>)</rp></ruby> , Haisukūru Dī Dī Bōn ) aired from April 4, 2015 to June 20, 2015.",
+                    " Set during the struggle among the devils, fallen angels, and angels, the story follows the adventures of Issei Hyodo.",
+                    " Issei is a perverted high school student who is nearly killed by his first date, who is revealed to be a fallen angel.",
+                    " He is revived by Rias Gremory, who is a crimson-haired school beauty that is actually a devil.",
+                    " Issei becomes her servant.",
+                    " The first season adapts material from the first two volumes of the light novels and a few side stories from Volume 8.",
+                    " The second season continues with the third and fourth volumes of the light novels.",
+                    " It is split between two arcs: The Excalibur of the Moonlit Schoolyard (月光校庭のエクスカリバー , Gekkō Kōtei no Ekusukaribā ) and The Vampire of the Empty Classroom (停止教室のヴァンパイア , Teishi Kyōshitsu no Vanpaia ) .",
+                    " The first ten episodes of the third season adapts material from the fifth to the seventh volumes of the light novels, while the last two episodes form an original self-contained story arc."
+                ]
+            ],
+            [
+                "Echosmith",
+                [
+                    "Echosmith is an American, Corporate indie pop band formed in February 2009 in Chino, California.",
+                    " Originally formed as a quartet of siblings, the band currently consists of Sydney, Noah and Graham Sierota, following the departure of eldest sibling Jamie in late 2016.",
+                    " Echosmith started first as \"Ready Set Go!\"",
+                    " until they signed to Warner Bros.",
+                    " Records in May 2012.",
+                    " They are best known for their hit song \"Cool Kids\", which reached number 13 on the \"Billboard\" Hot 100 and was certified double platinum by the RIAA with over 1,200,000 sales in the United States and also double platinum by ARIA in Australia.",
+                    " The song was Warner Bros.",
+                    " Records' fifth-biggest-selling-digital song of 2014, with 1.3 million downloads sold.",
+                    " The band's debut album, \"Talking Dreams\", was released on October 8, 2013."
+                ]
+            ],
+            [
+                "OBB (band)",
+                [
+                    "OBB (meaning, Oswald Brothers Band) is an American pop rock band made up of the three Oswald brothers, Zach, Jacob, and Nich.",
+                    " They come from Atlanta, Georgia, where the band started making music in 2008.",
+                    " They have released four extended plays, \"3\" in 2011, \"Live, Life, Loving\" in 2012, \"OBB\" in 2013, and \"Feelin' like Christmas\" in 2014.",
+                    " The group have also released one studio album, \"Bright Side\" in 2014, and an independent album, \"Ready Set Go\" in 2009."
+                ]
+            ],
+            [
+                "The Ready Set",
+                [
+                    "Jordan Mark Witzigreuter (born November 14, 1989), known professionally as The Ready Set, is an American singer-songwriter from Fort Wayne, Indiana.",
+                    " He is the lead vocalist and sole member of the act, using a backup band while on tour.",
+                    " Witzigreuter created The Ready Set in the basement of his childhood home in Fort Wayne, Indiana.",
+                    " He has released four studio albums \"Tantrum Castle\", \"I'm Alive, I'm Dreaming,\" \"The Bad & The Better\", and \"I Will Be Nothing Without Your Love,\" four extended plays and seven singles.",
+                    " Fall Out Boy bassist Pete Wentz signed The Ready Set to his label Decaydance Records, in 2009.",
+                    " He is currently with Hopeless Records."
+                ]
+            ],
+            [
+                "Rapeman",
+                [
+                    "Rapeman was an American rock band founded in 1987 and disbanded in 1989.",
+                    " It consisted of Steve Albini (formerly of Big Black) on guitar and vocals, David Wm. Sims (formerly of Scratch Acid) on bass and Rey Washam (formerly of Scratch Acid and Big Boys) on drums.",
+                    " Their sound was described as post-hardcore."
+                ]
+            ],
+            [
+                "Ready Ready Set Go",
+                [
+                    "Ready Ready Set Go is the first compilation album (third overall) by Canadian musical duo Prozzäk, released under the name Simon and Milo, by Hollywood Records on April 30, 2002.",
+                    " This was a limited edition CD and also enhanced with three bonus videos.",
+                    " The album's name is taken from the opening line from \"Pretty Girls (Make Me Nervous)\", the first track on the album.",
+                    " All of the tracks were taken from the two previous albums, \"Hot Show\" and \"Saturday People\", with the exception of the one new track introduced on the album, \"Get a Clue\", a theme song for the TV movie of the same name starring Lindsay Lohan.",
+                    " \"Get a Clue\" is also a featured track in the video game \"Disney's Extreme Skate Adventure\", and its accompanying music video is an unlockable video in the extras section of the game."
+                ]
+            ],
+            [
+                "Ready Set Go! (album)",
+                [
+                    "Ready Set Go!",
+                    " was the intended debut studio album by American hip-hop recording artist Roscoe Dash, released on November 2, 2010 in the United States on MMI, Zone 4, Music Line Group and Interscope Records.",
+                    " The album was recorded in various locations during 2009 and 2010, with production primarily provided by K.E. on the Track and guest performances recorded by Soulja Boy, J. Holiday and Jared Evan.",
+                    " A hip hop album with influences of pop and contemporary R&B, \"Ready Set Go\" features hook-driven content sung by Dash's high-pitched, nasal voice."
+                ]
+            ],
+            [
+                "Ready Set Roll",
+                [
+                    "\"Ready Set Roll\" is a song recorded by American country music artist Chase Rice.",
+                    " It was released in November 2013 as his first single from his EP album, \"Ready Set Roll\", and later appeared on his first major-label studio album, \"Ignite the Night\".",
+                    " Rice wrote the song with Chris DeStefano, who also produced it, and Rhett Akins."
+                ]
+            ],
+            [
+                "List of R5 concert tours",
+                [
+                    "American pop rock band R5 has embarked on five concert tours, two of which have been worldwide, and two promotional tours.",
+                    " In March 2010, they self-released an EP, \"Ready Set Rock\", and in September released their debut studio album with Hollywood Records.",
+                    " The second EP, \"Loud\", was released on February 19, 2013, which featured the lead single and title track \"Loud\", the debut single from upcoming album.",
+                    " The band's first full-length album, \"Louder\", was released on September 24, 2013 and the album not only includes the four songs from \"Loud\" and also seven new songs.",
+                    " The second single from the album, \"Pass Me By\", premiered on Radio Disney on August 16.",
+                    " The music video premiered on 29 August on Disney Channel and is available for public viewing on the band's Vevo channel.",
+                    " The third single, \"(I Can't) Forget About You\", was released on December 25, 2013 and reached number 47 on \"Billboard\" Digital Pop Songs, and the fourth single \"One Last Dance\" on May 29, 2014."
+                ]
+            ]
+        ],
+        "answer": "Rapeman",
+        "_id": "5adf75a15542995534e8c7bb",
+        "type": "comparison"
+    },
+    {
+        "supporting_facts": [
+            [
+                "Phoebe Ruguru",
+                1
+            ],
+            [
+                "IPhone 4S",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "Who was the former CEO and co-founder of the company that makes the phone that Phoebe Ruguru shot her film \"Saidia\"?",
+        "context": [
+            [
+                "Martin Shkreli",
+                [
+                    "Martin Shkreli ( , born March 17, 1983) is an American businessman, former hedge fund manager, and convicted felon.",
+                    " He is the co-founder of the hedge funds Elea Capital, MSMB Capital Management, and MSMB Healthcare; co-founder and former chief executive officer (CEO) of the biotechnology firm Retrophin; and founder and former CEO of Turing Pharmaceuticals.",
+                    " Shkreli is also the CEO of start-up software company Gödel Systems, which he founded in August 2016."
+                ]
+            ],
+            [
+                "Peter Diamandis",
+                [
+                    "Peter H. Diamandis ( ; born May 20, 1961) is a Greek American engineer, physician, and entrepreneur best known for being the founder and chairman of the X Prize Foundation, the co-founder and executive chairman of Singularity University and the co-author of \"The New York Times\" bestsellers \" and .\"",
+                    " He is also the former CEO and co-founder of the Zero Gravity Corporation, the co-founder and vice chairman of Space Adventures Ltd., the founder and chairman of the Rocket Racing League, the co-founder of the International Space University, the co-founder of Planetary Resources, founder of Students for the Exploration and Development of Space, and vice-chairman and co-founder of Human Longevity, Inc."
+                ]
+            ],
+            [
+                "Mike Long (American businessman)",
+                [
+                    "Mike Long is an American business man, former CEO of several public companies, and currently a founding partner of Sulgrave Partners LLC.",
+                    " He served as the President and Chief Executive Officer of Continuum, an Austin, Texas IT consulting company, from 1991 to 1997, having started with Continuum as a Director in 1983.",
+                    " In 1997, Long was named CEO of Healtheon Corporation (now WebMD), succeeding former CEO David Schnell.",
+                    " Long oversaw Healtheon's initial public offering, traveling between Europe and the United States to woo investors.",
+                    " Long was able to secure the required investment funds, and saw Healtheon's stock price rise from $8 to a high of $120.",
+                    " In 2002, Long was recruited to fix the financial struggles of Move, Inc., a company plagued by more than $4 billion in lawsuits and hemorrhaging tens of millions of dollars a quarter.",
+                    " As Chief Executive Officer, Long was able to revive Homestore, Inc., by changing the business model, rebranding the company as Move, Inc. and returning it to profitability.",
+                    " Touching on his experience of bringing about the initial public offerings of web-based businesses, Long would say that investors needed to be presented \"with an entirely new face every few months,\" and that \"the only way to run one of these Silicon Valley companies was to forget everything you'd learned outside of Silicon Valley.\""
+                ]
+            ],
+            [
+                "Marjorie Scardino",
+                [
+                    "Dame Marjorie Morris Scardino, DBE, FRSA (born 25 January 1947) is an American-born British business executive.",
+                    " She is the former CEO of Pearson PLC.",
+                    " Dame Marjorie became a trustee of Oxfam during her tenure at Pearson .",
+                    " She has been criticized by Private Eye magazine because, while Oxfam campaigns against corporate tax avoidance as part of the IF Coalition , Pearson was \"a prolific tax haven user...routing hundreds of millions of pounds through an elaborate series of Luxembourg companies (and a Luxembourg branch of a UK company) to avoid tax\".",
+                    " She became the first female Chief Executive of a FTSE 100 company when she was appointed CEO of Pearson in 1997.",
+                    " She is also a non-executive director of Nokia and former CEO of the Economist Group.",
+                    " During her time at Pearson, she had tripled profits to a record £942m.",
+                    " In December 2013, she joined the board of Twitter as its first female director, after a controversy involving a lack of diversity on the Twitter board."
+                ]
+            ],
+            [
+                "Robin Chase",
+                [
+                    "Robin Chase is a transportation entrepreneur.",
+                    " She is co-founder and former CEO of Zipcar.",
+                    " She is also the founder and former CEO of Buzzcar, a peer-to-peer car sharing service, acquired by Drivy.",
+                    " She also started the defunct GoLoco.org, a ride-sharing company.",
+                    " She is co-founder and Executive Chairman of Veniam, a vehicle network communications company.",
+                    " She authored the book, Peers Inc: How People and Platforms are Inventing the Collaborative Economy and Reinventing Capitalism.",
+                    ""
+                ]
+            ],
+            [
+                "Phone log",
+                [
+                    "A phone log is metadata collected from telephone or mobile phones for the purpose of surveillance or espionage.",
+                    " This metadata may include: length of calls, phone numbers of both parties, phone-specific identification information, gps location, call proximity, and/or computer converted voice-to-text transcripts of the phone call conversation.",
+                    " The advantage of converting audio to ASCII text metadata is that it makes it easily searchable for keywords and phrases, and is easily storeable for long periods of time on conventional database systems for years.",
+                    " Phone logs are not limited to governmental collection.",
+                    " For example, some private sector companies, such as banks, are known to collect phone log data on their internal phone network of all calls within and between the company and outside parties."
+                ]
+            ],
+            [
+                "Jon Stephenson von Tetzchner",
+                [
+                    "Jon Stephenson von Tetzchner or, in Icelandic, Jón (born 29 August 1967 in Reykjavík, Iceland) is an Icelandic programmer and businessman.",
+                    " Industry pioneer and browser visionary, he is the co-founder and CEO of Vivaldi Technologies, the company behind the Vivaldi Web Browser and other services for the web's most demanding and savviest users.",
+                    " Before starting the Vivaldi Web browser, he launched a community site called Vivaldi.net.",
+                    " Tetzchner is also a co-founder and the former CEO of Opera Software."
+                ]
+            ],
+            [
+                "Phoebe Ruguru",
+                [
+                    "Phoebe Ruguru (born 1997) is a Kenyan film director and producer known for winning the 2014 modern day slavery short film competition in London.",
+                    " Her winning film \"Saidia\" (Swahili for \"help\") was shot entirety on her iPhone 4s alongside her producer friends Njue Kevin and Bill Jones Afwani."
+                ]
+            ],
+            [
+                "IPhone 4S",
+                [
+                    "The iPhone 4S (retroactively stylized with a lowercase 's' as iPhone 4s as of September 2013) is a smartphone that was designed and marketed by Apple Inc. It is the fifth generation of the iPhone, succeeding the iPhone 4 and preceding the iPhone 5.",
+                    " Announced on October 4, 2011 at Apple's Cupertino campus, its media coverage was accompanied by news of the death of former Apple CEO and co-founder Steve Jobs on the following day."
+                ]
+            ],
+            [
+                "Richard Yoo",
+                [
+                    "Richard Yoo is an American entrepreneur, the co-founder and former CEO of the web hosting company Rackspace, and the founder and former CEO of web hosting company ServerBeach."
+                ]
+            ]
+        ],
+        "answer": "Steve Jobs",
+        "_id": "5ab3050155429976abd1bc25",
+        "type": "bridge"
+    },
+    {
+        "supporting_facts": [
+            [
+                "Animal Kingdom (TV series)",
+                3
+            ],
+            [
+                "Ellen Barkin",
+                1
+            ]
+        ],
+        "level": "medium",
+        "question": "In what film did  the American actress who portrayed Janine \"Smurf\" Cody in \"Animal Kingdom\" play her breakthrough role?",
+        "context": [
+            [
+                "Shawn Hatosy",
+                [
+                    "Shawn Wayne Hatosy (born December 29, 1975) is an American film and television actor.",
+                    " He is perhaps best known for his roles in the films \"In & Out\", \"The Faculty\", \"Outside Providence\", \"Anywhere but Here\", \"\", \"The Cooler\", and \"Alpha Dog\".",
+                    " He is also known for role as Detective Sammy Bryant on the TNT crime drama series \"Southland\" and is currently starring as Pope Cody in the TNT crime drama series, \"Animal Kingdom\", based on the Australian film of the same name."
+                ]
+            ],
+            [
+                "Jake Weary",
+                [
+                    "Jacob \"Jake\" Weary (born February 14, 1990) is an American actor, musician, singer-songwriter and music producer.",
+                    " He is best known for his roles as Luke Snyder on the CBS soap opera \"As the World Turns\", Vince Keeler in NBC's action-drama series \"Chicago Fire\", and for his role as Kevin Dawg in \"\" (2010) and its two sequels and television adaptation, Nickelodeon's \"\".",
+                    " He currently stars as Deran Cody in the TNT drama series \"Animal Kingdom\", based on the Australian film of the same name."
+                ]
+            ],
+            [
+                "Ellen Barkin",
+                [
+                    "Ellen Rona Barkin (born April 16, 1954) is an American actress and film producer.",
+                    " Her breakthrough role was in the 1982 comedy-drama film \"Diner\", and the following years she had starring roles in films include \"Tender Mercies\" (1983), \"The Adventures of Buckaroo Banzai Across the 8th Dimension\" (1984), and \"The Big Easy\" (1987)."
+                ]
+            ],
+            [
+                "Film Critics Circle of Australia Awards 2011",
+                [
+                    "The 19th Film Critics Circle of Australia Awards, honoring the best in films from 2010, were presented on 13 March 2011 at North Sydney Leagues Club in Cammeray, New South Wales and hosted by Rod Quinn.",
+                    " The nominees were announced on 8 February 2011 with \"Animal Kingdom\" receiving ten nominations.",
+                    " \"Animal Kingdom\" won six awards, including Best Film and Best Director."
+                ]
+            ],
+            [
+                "List of Animal Kingdom episodes",
+                [
+                    "\"Animal Kingdom\" is an American drama television series developed by Jonathan Lisco, based on the 2010 Australian film by David Michôd.",
+                    " The series follows a 17-year-old boy, who, after the death of his mother, moves in with the Codys, a criminal family clan governed by matriarch Janine \"Smurf\" Cody (Ellen Barkin).",
+                    " \"Animal Kingdom\" debuted on TNT on June 14, 2016."
+                ]
+            ],
+            [
+                "Breakthrough role",
+                [
+                    "A breakthrough role, also known as breakout role, is a term in the film industry to describe the performance of an actor or actress in a film or television show which contributed significantly to the development of their career and beginning of critical recognition.",
+                    " Such a moment in an actor's career may often occur some time after they begin acting as their roles become more substantial.",
+                    " Often a breakthrough role is a significant increase in importance in the actor's part in the film moving up from a minor character or extra to one of the leading cast, or a \"high impact\" role in a film which has mainstream success and results in the widespread recognition or popularity of the actor.",
+                    " Martin Shingler defines a breakthrough performance as one which \"attracts the attention of film critics, or receives rave reviews and is subsequently nominated for a major film award.\""
+                ]
+            ],
+            [
+                "Anne Hathaway on screen and stage",
+                [
+                    "Anne Hathaway is an American actress who has appeared in film and stage.",
+                    " She made her acting debut in the short lived television series \"Get Real\" (1999-2000).",
+                    " Hathaway's breakthrough role came with the role of Mia Thermopolis in the successful Disney comedy \"The Princess Diaries\" (2001).",
+                    " The role established her as a teen idol and she later reprised the role in its .",
+                    " This was followed by a string of family-oriented films, including \"Nicholas Nickleby\" (2002) and \"Ella Enchanted\" (2004), all of which were unsuccessful.",
+                    " In 2005, she voiced the lead character in the highly successful animated film \"Hoodwinked!",
+                    "\".",
+                    " The same year, she made transition to more mature roles with the acclaimed \"Brokeback Mountain\".",
+                    " In 2006, Hathaway starred opposite Meryl Streep in the comedy-drama \"The Devil Wears Prada\" and portrayed Jane Austen in the biographical drama \"Becoming Jane\", the following year."
+                ]
+            ],
+            [
+                "Animal Kingdom (TV series)",
+                [
+                    "Animal Kingdom is an American drama television series developed by Jonathan Lisco.",
+                    " It is based on the 2010 Australian film by David Michôd, who is executive producer for the series, alongside Liz Watts who also produced the movie.",
+                    " The series follows a 17-year-old boy, who, after the death of his mother, moves in with the Codys, a criminal family clan governed by matriarch Smurf.",
+                    " Ellen Barkin portrays the leading role of Janine \"Smurf\" Cody, played by Jacki Weaver in the 2010 film.",
+                    " \"Animal Kingdom\" debuted on TNT on June 14, 2016, and was renewed for a second season on July 6, 2016, of thirteen episodes that premiered on May 30, 2017.",
+                    " On July 27, 2017, TNT renewed the series for a third season."
+                ]
+            ],
+            [
+                "James Frecheville",
+                [
+                    "James Aitken Frecheville (pronounced \"\"fresh-ville\"\"; born 1991) is an Australian actor known for his lead role in the Australian film \"Animal Kingdom\" as Joshua \"J\" Cody, a confused teenager and youngest member of a criminal family in Melbourne's underworld."
+                ]
+            ],
+            [
+                "Animal Kingdom (horse)",
+                [
+                    "Animal Kingdom (foaled in Kentucky on March 20, 2008) is an American Thoroughbred racehorse best known for winning the 137th Kentucky Derby and the 2013 Dubai World Cup.",
+                    " His Derby win took place on May 7, 2011, before a record crowd of 164,858.",
+                    " After the Derby, Animal Kingdom finished second in the Preakness Stakes and sixth in the Belmont Stakes before his career was disrupted by injury.",
+                    " He returned to finish second in the 2012 Breeders' Cup Mile before winning the Dubai World Cup as a five-year-old in 2013.",
+                    " Animal Kingdom is the first Kentucky Derby winner to win a Grade 1 race at the age of five.",
+                    " He has won Grade 1 races on both dirt and synthetic surfaces."
+                ]
+            ]
+        ],
+        "answer": "Diner",
+        "_id": "5add31aa5542994ed6169cc8",
+        "type": "bridge"
+    }
+]
