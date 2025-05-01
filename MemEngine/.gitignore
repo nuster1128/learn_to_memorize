@@ -1,0 +1,14 @@
+*__pycache__/
+*.log
+*.pickle
+*.DS_Store
+*.cache/
+
+logs/
+doc/build/
+dist/
+memengine.egg-info
+build/
+conda_recipe/
+
+run_agent_samples/data_hotpotqa/

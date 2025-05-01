@@ -1,0 +1,7 @@
+langchain>=0.3.3
+torch>=2.5.1
+numpy>=1.26.4
+openai>=1.51.2
+PyYAML>=6.0.2
+sentence_transformers>=3.3.1
+transformers>=4.45.2
