@@ -2,18 +2,15 @@
 
 ## 📝 Introduction
 ![figure1](./assets/figure1.png)
-LLM-based agents have been widely applied in many areas, and memory is one of their most fundamental capabilities.
-		Previous memory mechanisms of LLM-based agents are manually predefined by human experts, leading to higher labor costs and sub-optimal performance. They also ignore the memory cycle effect in interactive scenarios, which is important to optimize LLM-based agents for certain environments.
-		To address these issues, in this paper, we propose to optimize LLM-based agents with an adaptive and data-driven memory framework by modeling memory cycles. Specifically, our memory framework empowers LLM-based agents to learn how to memorize information in different environments, with both off-policy and on-policy optimization.
-		We conduct extensive experiments to show the effectiveness of our methods.
+LLM-based agents have been extensively applied across various domains, where memory stands out as one of their most essential capabilities. Previous memory mechanisms of LLM-based agents are manually predefined by human experts, leading to higher labor costs and suboptimal performance. In addition, these methods overlook the memory cycle effect in interactive scenarios, which is critical to optimizing LLM-based agents for specific environments. To address these challenges, in this paper, we propose to optimize LLM-based agents with an adaptive and data-driven memory framework by modeling memory cycles. Specifically, we design an MoE gate function to facilitate memory retrieval, propose a learnable aggregation process to improve memory utilization, and develop task-specific reflection to adapt memory storage. Our memory framework empowers LLM-based agents to learn how to memorize information effectively in specific environments, with both off-policy and on-policy optimization. In order to evaluate the effectiveness of our proposed methods, we conduct comprehensive experiments across multiple aspects.
 
 ## 📌 Major Contributions
 
 ![figure2](./assets/figure2.png)
 
-- We propose a data-driven memory framework that empowers LLM-based agents to learn to memorize, with optimizable memory retrieval, utilization, and storage.
-- We model the memory cycle effect inside agent-environment interactions to emphasize potential influence, and propose off-policy and on-policy optimization strategies for our memory framework.
-- We conduct extensive experiments on our framework to show how it benefits LLM-based agents in the process of interacting with environments.
+- We propose an adaptive and data-driven memory framework that empowers LLM-based agents to learn to memorize, with optimizable memory retrieval, utilization, and storage procedures.
+- We formulate the memory cycle effect during agent-environment interactions, and propose off-policy and on-policy optimization strategies for our memory framework.
+- We conduct comprehensive experiments to demonstrate the effectiveness of our framework in improving the performance of LLM-based agents when interacting with environments.
 
 ## 🚀 Run Experiments
 
