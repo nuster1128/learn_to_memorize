@@ -88,7 +88,7 @@ python run_hotpot_qa.py
 #### 3.3 Check the resuls.
 After training and testing, the results will be saved in the dictionary (default as `experiments/results`).
 
-## 🔗 Cite
+## 🔗 Citation
 
 ```
 [To Be Updated]
