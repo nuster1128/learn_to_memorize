@@ -67,7 +67,7 @@ experiments/offline_train/utilization_train.py
 ```
 ### 📝 3 Run Experiments.
 #### 3.1 Run the offline training process.
-Run the follwing commands.
+Run the following commands.
 ```shell
 python sample_hotpot_qa_offline.py
 cd offline_train
@@ -79,23 +79,21 @@ python store_train.py
 python utilization_train.py
 ```
 #### 3.2 Run the online training process and test the model.
-Run the follwing commands.
+Run the following commands.
 ```shell
 cd ..
 python run_hotpot_qa.py
 ```
 
 #### 3.3 Check the resuls.
-After training and testing, the results will be saved in the dictory (default as `experiments/results`).
+After training and testing, the results will be saved in the dictionary (default as `experiments/results`).
 
 ## 🔗 Cite
 
 ```
-Under Review
+[To Be Updated]
 ```
 
 ## 📧 Contact
 
-```
-Under Review
-```
+If you have any questions, please feel free to contact us via `zeyuzhang@ruc.edu.cn`.
