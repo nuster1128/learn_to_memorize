@@ -93,7 +93,3 @@ After training and testing, the results will be saved in the dictionary (default
 ```
 [To Be Updated]
 ```
-
-## 📧 Contact
-
-If you have any questions, please feel free to contact us via `zeyuzhang@ruc.edu.cn`.
